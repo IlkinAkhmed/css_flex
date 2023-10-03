@@ -1,0 +1,42 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 100px;
+    height: 50px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    width: 100%;
+    
+}
+a{
+ text-decoration: none;
+ color: black;
+ padding: 10px;
+}
+input{
+    border: none;
+    width: 150px;
+    height: 40px;
+}
+i{
+    font-size: 40px;
+    margin-left: 20px;
+}
+li{
+    border: 1px solid white;
+
+}
+.fa-solid.fa-magnifying-glass{
+    margin: 0;
+    font-size: 20px;
+}
+.search{
+    display: flex;
+    border: 1px solid white;
+    
+}
